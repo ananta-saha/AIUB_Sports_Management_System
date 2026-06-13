@@ -12,4 +12,5 @@ Pages Designed Home, Sign Up, Login, Events 1, Events 2, GYM, Trophies, Student 
 Tool Used Designed entirely in Figma using components, auto layout, and interactive prototyping.
 
 Figma Design Link: https://www.figma.com/design/dBikoEuOFBS0pXbbmmVzQG/Integrated-Sports-Information-And-Management--System.?node-id=0-1&t=Grq8M7eFbzIriikq-1 
+
 <img width="2160" height="1350" alt="Home" src="https://github.com/user-attachments/assets/3bac0b00-2e99-47b2-99e8-ec3099390442" />
